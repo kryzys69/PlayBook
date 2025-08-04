@@ -4,18 +4,18 @@
   <!--Ustawienia-->
   <string name="pref_about_title">Informacje</string>
   <string name="pref_follow_system">Podążaj za systemem</string>
-  <string name="pref_forward">Przekaż</string>
+  <string name="pref_forward">Przewiń do przodu</string>
   <string name="pref_grid_view">Wyświetl siatkę</string>
   <string name="pref_layout_list">Układ listy</string>
   <string name="pref_layout_grid">Układ siatki</string>
   <string name="pref_mini_player_floating_button">Przycisk</string>
-  <string name="pref_mini_player_mini_player_floating">Pływający gracz</string>
-  <string name="pref_player_background_title">Tło gracza</string>
+  <string name="pref_mini_player_mini_player_floating">Pływający odtwarzacz</string>
+  <string name="pref_player_background_title">Tło odtwarzacza</string>
   <string name="pref_player_background_theme">Tło aplikacji</string>
   <string name="pref_player_background_blurred_cover">Niewyraźna okładka</string>
-  <string name="pref_play_buttons_style_title">Odtwórz styl przycisku</string>
+  <string name="pref_play_buttons_style_title">Styl przycisku odtwarzania</string>
   <string name="pref_rewind">Przewiń do tyłu</string>
-  <string name="pref_rewind_buttons_style_title">Styl przycisków przewijania do tyłu</string>
+  <string name="pref_rewind_buttons_style_title">Styl przycisków przewijania</string>
   <string name="pref_rewind_buttons_style_classic">Klasyczny</string>
   <string name="pref_rewind_buttons_style_rounded">Zaokrąglone</string>
   <string name="pref_rewind_buttons_style_square">Kwadrat</string>
@@ -27,7 +27,7 @@
   <!-- Tematy -->
   <string name="pref_animated_marquee_summary">Jeśli jest zbyt szeroki, aby zmieścić się w dostępnej przestrzeni</string>
   <string name="theme">Motyw</string>
-  <string name="light_theme">Światło</string>
+  <string name="light_theme">Jasny</string>
   <string name="dark_theme">Ciemny</string>
 
   <!--Ustawianie nagłówków-->
